@@ -9,3 +9,4 @@ MYSQL_HOST: mysql-"{{ env }}".nagendrababu.online
 SHIPPING_HOST: shipping-"{{ env }}".nagendrababu.online
 RABBITMQ_HOST: rabbitmq-"{{ env }}".nagendrababu.online
 PAYMENT_HOST: payment-"{{ env }}".nagendrababu.online
+app_version: v3
